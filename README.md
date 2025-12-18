@@ -2,7 +2,7 @@
   Welcome to my GitHub Profile 🚀
 -->
 
-# 👋 Hi, I’m **[Kashika]**
+# 👋 Hi, I’m **Kashika**
 ### ☁️ AWS Certified Cloud Practitioner | Cloud Enthusiast | Learner
 
 I am passionate about cloud computing and building reliable, scalable solutions using AWS technologies.  
