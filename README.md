@@ -20,7 +20,7 @@ I’m currently preparing for **AWS Certified Cloud Practitioner**, working on A
   - AWS basics: compute, storage, networking, security
   - Cloud architecture & best practices
   - Real-world AWS projects & deployment
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **kashikapande@gmail.com**
 
 ---
 
@@ -45,30 +45,13 @@ I’m currently preparing for **AWS Certified Cloud Practitioner**, working on A
 
 ---
 
-## 📁 Cloud Projects & Learning Repos
-
-Here are some hands-on repos and learning projects:
-
-### 🔹 AWS Cloud Practitioner Notes
-- 📘 **Cloud Concepts & Definitions**
-- 🧠 Links, examples, key terms, and AWS explanations
-- 📁 Repo: `[Link to your AWS-Cloud-Practitioner Notes Repo]`
-
-### 🔹 AWS Projects for Practice
-Examples you might include:
-- **AWS S3 Static Website Host** – Deploy a static webpage on S3 with routing
-- **Serverless API with Lambda** – REST API using Lambda + API Gateway
-- **AWS VPC Workshop** – VPC with public/private subnets and security groups
-
-*(Replace with your real repository links and descriptions)*
-
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/kashika-pande/)/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Send-red?logo=gmail"></a>
+  <a href="mailto:kashikapande@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Send-red?logo=gmail"></a>
 </p>
 
 ---
